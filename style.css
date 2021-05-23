@@ -1,0 +1,82 @@
+body{
+	color:rgb(255, 255, 255) ;
+	background-color: #f5f5f5;
+	font-family:monospace;
+	font-size:15px;
+	line-height:20px;
+	letter-spacing: 0,5px;
+	text-align:left;
+}
+h1{
+	color:#f53168;
+	font-family:cursive;
+	font-size:30px ;
+	font-variant:small-caps;
+	letter-spacing:9px;
+	text-align:center;
+} 
+
+h2{
+ 	color:#13c268;
+ 	font-family:cursive;
+ 	font-weight:bolder;
+ 	text-align:center;
+ 	letter-spacing: 11px;
+ 	font-size: 30px;
+ }
+
+ h3{
+ 	color:#f53168;
+	font-family:sans-serif;
+	font-size:20px ;
+	font-variant:small-caps;
+	letter-spacing:1px;
+	text-align:center;
+ }
+
+ div{
+ 	border:solid;
+ 	margin:50px 70px;
+ 	padding: 10px 15px; 
+	border-radius: 20px;
+	box-shadow: 3px 3px 3px grey;
+	background-color: rgb(30, 30, 30)
+ }
+
+ a{
+ 	color:#4ea7de;
+ 	text-decoration: none;
+ }
+
+ a:hover{
+ 	text-decoration:none;
+ 	color:#f53168;
+ }
+
+hr{
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  border-style:groove;
+  border-width: 0.5px;
+}
+
+.maths{
+	color:#f0a375;
+}
+
+.français{
+	color:#f0758a;
+}
+
+.histoire_geo_emc{
+	color:#75f0dc ;
+}
+
+.sciences {
+	color: #f0d264;
+}
+
+.oral {
+	color: #8ab8e6;
+}
