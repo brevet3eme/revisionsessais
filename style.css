@@ -84,11 +84,14 @@ hr{
 
 .retour{
 	font-variant:small-caps;
+	color:#032b4f;
+	font-weight:bolder;
 	text-align:right;
 	font-size:25px;
 	border:solid;
-	margin:20px;
-	color:#032b4f;
+	border-radius:20px;
+	padding:10px 15px;
+	margin:50px;
 }
 
 .bordure{
