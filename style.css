@@ -82,11 +82,11 @@ hr{
 }
 
 .retour{
-	width:10em;
+	width:8em;
 	font-variant:small-caps;
 	color:#032b4f;
 	font-weight:bolder;
-	text-align:right;
+	text-align:center;
 	font-size:25px;
 	border:solid;
 	border-radius:20px;
