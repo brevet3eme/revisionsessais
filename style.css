@@ -51,7 +51,7 @@ h2{
  a:hover{
  	text-decoration:none;
  	color:#f53168;
-	box-shadow:5px 5px 10px;
+	box-shadow:5px 5px 10px grey;
  }
 
 hr{
@@ -85,7 +85,7 @@ hr{
 .retour{
 	font-variant:small-caps;
 	text-align:right;
-	font-size:28px;
+	font-size:23px;
 	border:solid;
 	margin:20px;
 	color:#032b4f;
