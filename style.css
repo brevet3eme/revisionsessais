@@ -81,6 +81,11 @@ hr{
 	color: #8ab8e6;
 }
 
+.retour{
+	font-variant:small-caps;
+	text-align:right;
+}
+
 .bordure{
 max-width:100%;
 }
