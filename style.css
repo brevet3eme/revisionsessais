@@ -98,3 +98,15 @@ hr{
 	max-width:100%;
 }
 
+
+.index{
+	background-color:#f53168;
+	width: 25%;
+	padding: 10px;
+	vertical-align: text-top;
+}
+
+.titre{
+	font-weight: lighter;
+	text-align: center;
+}
