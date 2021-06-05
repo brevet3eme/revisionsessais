@@ -105,7 +105,7 @@ hr{
     z-index: 1; /* Stay on top */
     top: 1;
     left:0;
-    background-color: #ffc9a8; 
+    background-color: #f53168; 
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 5px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
