@@ -9,33 +9,53 @@
 </head>
 
 <body>
-	
-<table>
-<td class="index">
-		
-		<h4>Sommaire : </h4>
-
-		<h4 class="titre"> Histoire</h4>
-
-		<p><h5>Thème 1 : l'Europe, un théâtre majeur des guerres totales (1914-1945) </h5>
-		<li>H1.1 : <a href="histoire.html">Civils et militaire dans la 1ere GM </a> </li>
-		<li>H1.2 : Démocraties fragilisées et expériences totalitaires dans l'Europe de l'entre-deux-guerres</li>
-		<li>H1.3 : La 2eme GM, une guerre d'anéantissement </li>
-		<li>H1.4 : La France défaite et occupée. Régimes de Vichy, collaboration et Résistance </li>
-		<h5>Thèmme 2 : le monde depuis 1945</h5>
-		<li>H2.1 : Indépendance et constuction de nouveaux Etats</li>
-		<li>H2.2 : Un mode bipolaire au temps de la guerre froide</li>
-		<li>H2.3 : Affirmation et mise en oeuvre du projet européen</li>
-		<li>H2.4 : Enjeux et conflits dans le monde après 1989</li>
-		<h5>Thème 3 : Françaises et Français dans une République repensée</h5>
-		<li>H3.1 : 1944-1947, refonder la République, redéfinir la démocratie </li>
-		<li>H3.2 : La Ve République, de la République gaulienne à l'alternance et à la cohabitation </li>
-		<li>H3.3 : Femmes et hommes dans la société des années 1980 : nouveaux enjeux sociaux et culturels, réponses politiques </li></p>
-
- </td>
-
-<td>
 	<img class="bordure" src="image/border_top_transparent.png" width="2500px" height="70px">
+	
+		<div id="sideNavigation" class="sidenav" >
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">fermer</a>
+   <p class="index">
+	<h5>Thème 1 : l'Europe, un théâtre majeur des guerres totales (1914-1945) </h5>
+	<a href="histoire.html">H1.1 : Civils et militaire dans la 1ere GM </a>
+  	<a href="#">H1.2 : Démocraties fragilisées et expériences totalitaires dans l'Europe de l'entre-deux-guerres</a>
+  	<a href="#">H1.3 : La 2eme GM, une guerre d'anéantissement</a>
+  	<a href="#">H1.4 : La France défaite et occupée. Régimes de Vichy, collaboration et Résistance </a>
+	<h5>Thèmme 2 : le monde depuis 1945</h5>
+  	<a href="#">H2.1 : Indépendance et constuction de nouveaux Etats</a>
+  	<a href="#">H2.2 : Un mode bipolaire au temps de la guerre froid2</a>
+  	<a href="#">H2.3 : Affirmation et mise en oeuvre du projet européen</a>
+  	<a href="#">H2.4 : Enjeux et conflits dans le monde après 1989</a>
+	<h5>Thème 3 : Françaises et Français dans une République repensée</h5>
+	<a href="#">H3.1 : 1944-1947, refonder la République, redéfinir la démocratie </a>
+  	<a href="#">H3.2 : La Ve République, de la République gaulienne à l'alternance et à la cohabitation </a>
+ 	<a href="#">H3.3 : Femmes et hommes dans la société des années 1980 : nouveaux enjeux sociaux et culturels, réponses politiques </a> </p>
+
+</div>
+ 
+<nav class="topnav">
+  <a onclick="openNav()" >
+    <svg width="30" height="30" id="icoOpen">
+        <path d="M0,5 30,5" stroke="#000" stroke-width="5"/>
+        <path d="M0,14 30,14" stroke="#000" stroke-width="5"/>
+        <path d="M0,23 30,23" stroke="#000" stroke-width="5"/>
+    </svg>
+  </a>
+</nav>
+ 
+
+
+<script>
+function openNav() {
+   document.getElementById("sideNavigation").style.visibility = "visible";
+    document.getElementById("sideNavigation").style.width = "250px";
+    document.getElementById("main").style.marginLeft = "250px";
+}
+ 
+function closeNav() {
+    document.getElementById("sideNavigation").style.width = "0";
+    document.getElementById("sideNavigation").style.visibility = "hidden";
+    document.getElementById("main").style.marginLeft = "0";
+}
+</script>
 	
 	<h1>Révisions brevet : nous voilà !</h1>  
 
@@ -193,10 +213,6 @@
 </div>
 
 <img class="bordure" src="image/border_bottom_transparent.png" width="2500px" height="70px">
-
-</td>
-
-</table>
 
 </body>
 
