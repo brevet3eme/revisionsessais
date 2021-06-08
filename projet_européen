@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>projet_européen</title>
+	<meta charset="utf-8">
+	<link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+  
+  
+	<img class="bordure" src="image/bordure.png" width="2500px" height="70px" >
+  
+	<a class="retour" href="https://brevet3eme.github.io/revisionsessais/">
+	<img src="image/icone_maisons.jpg" width="105px" height="90px"></a>
+  
+	<h1>H2.3 : Affirmation et mise en œuvre du projet européen</h1>  
+
+<div>
+	   <h2>I) Les débuts de la construction européenne</h2>
+
+    <p> <h4>Contexte :</4> Après 1945, les états de l'europe de l'ouest se rapprochent dans le cadre du plan Marshall et de la guerre froide.
+   <br>CECA (Communauté Economique du Charbon et de l'Acier) : c'est une union économique préfigurant une union politique créée en 1951 par six pays (France, RFA, Italie, Belgique, Luxembourg et Pays-Bas).
+   <br>Objectifs : garantir la paix et la prospérité et s'affirmer face aux blocs de la guerre froide grâce à ses institutions supernationales + s'aider mutuellement économiquement entre pays européens après la 2nd guerre mondiale.
+   <br>CEE (Communauté Economique Européene) : elle est mise en place en 1957 par les Six en signant le traité de Rome.
+   <br>Objectifs : permettre un marché commun avec une libre circulation des biens, des capitaux et des personnes (espace Schengen) + intégrer une politique commune pour l'agriculture et le transport. 
+  </p> 
+  
+  <p>Les fondateurs de l'Europe sont appelés "pères de l'Europe" tels Robert Schuman (France) et Konrad Adenauer (Alemagne)</p>
+	
+</div>
+
+<div>
+
+  <h2>II) De la CEE à l'Union européene (UE)</h2>
+
+	<p>
+		<h4>Elargissements successifs</h4> 
+		<br>CEE à 12 : De 1973 à 1986 rejoignent la CEE le Royaume-Uni, l'Irlande, le Danemark, la grèce, l'Espagne et le Portugal.
+    <br>Traité de Maastricht : en 1992 l'Union européens est créée 
+    <br>↳ citoyenneté européenne (vote aux élections municipales) + union économique et monétaire (Euro et zone Euro en 2002) + politiques communes sur la sécurité (PESC) 
+    <br>C'est une alliance politique, économique et sociale.
+    <br>Europe des 15 : En 1995 rejoignent l'UE la Suède, l'Autriche et la Finlande.
+    <br>Europe des 25 : En 2003 rejoignent l'UE l'Estonie, la Lettonie, la Lituanie, la Pologne, la République tchèque, la Slovaquie, la Hongrie et Chypre.
+    <br>Europe des 27 : En 2007 rejoignent l'UE la Roumanie et la Bulgarie.
+    <br>Europe des 28 : En 2013 rejoit l'UE la Croatie.
+    <br>Europe des 27 : En 2020 le Royaume-Uni quitte l'UE avec le Brexit suite à un référendome.
+   </p>
+</div>
+
+<div>
+	<p>
+		<h3>De nouveaux défis</h3> 
+
+		<br>Dans les années 2000, l'euroscepticisme fait échouer le projet d'une constitution européene.
+    <br>En 2008 une crise économique en zone euro entraine des difficultés financières (question du maintien de la grèce dans l'UE). 
+    <br>Le terrorisme et les crises migratoires ainsi que la situation du proche-Orient inquiètent.
+ 	</p>
+</div>
+
+<div>
+  <h3>Schéma bilan :</h3>
+  <img src="image/">
+</div>
+</body>
+
+
+</html>
