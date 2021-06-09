@@ -122,7 +122,7 @@ schéma{
     z-index: 1; /* Stay on top */
     top: 1;
     left:0;
-    background-color:#F5A700; 
+    background-color:#f5f5f5; 
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 5px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
@@ -194,7 +194,7 @@ body {
 /* Add a color to the active/current link */
 .topnav a.active {
     background-color: #4CAF50;
-    color: white;
+    color: grey;
 }
  
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
