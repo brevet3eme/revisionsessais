@@ -122,7 +122,7 @@ schéma{
     z-index: 1; /* Stay on top */
     top: 1;
     left:0;
-    background-color:#064e90; 
+    background-color:#f5f5f5; 
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 5px; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
@@ -149,7 +149,7 @@ schéma{
 }
  
 .sidenav a:hover, .offcanvas a:focus{
-    color: #f5f5f5;
+    color: #064e90;
 }
  
 /* Position and style the close button (top right corner) */
