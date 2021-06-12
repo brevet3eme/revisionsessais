@@ -101,9 +101,6 @@ hr{
 	text-align: center;
 }
 
-.fermer{
-	position : fixed;
-}
 
 .sidenav {
     height: 80%; /* 100% Full-height */
@@ -144,6 +141,7 @@ hr{
  
 /* Position and style the close button (top right corner) */
 .sidenav .closebtn {
+	position : fixed;
     position: absolute;
     top:0;
     right: 29px;
